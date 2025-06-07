@@ -1,5 +1,5 @@
 {
-    "name": "jdomenech/very-basic-php-project",
+    "name": "jdomenechb/very-basic-php-project",
     "description": "A very basic PHP project with minimal setup",
     "type": "project",
     "license": "MIT",
@@ -15,15 +15,15 @@
     },
     "authors": [
         {
-            "name": "Jordi Domènech",
+            "name": "Jordi Domènech Bonilla",
             "email": "jdomenechbborges@gmail.com"
         }
     ],
     "minimum-stability": "stable",
     "require": {
-        "php": ">=8.2"
+        "php": ">=8.4"
     },
     "require-dev": {
-        "phpunit/phpunit": "^9.5"
+        "phpunit/phpunit": "^12.2"
     }
 }
